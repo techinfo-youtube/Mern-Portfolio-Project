@@ -5,12 +5,12 @@
   display: flex;
   vertical-align: middle;
   margin: 0 auto;
-  margin-top: 20px;
+  /* margin-top: 20px; */
 }
 
 .nav-item {
   color: white;
-  margin-top: 30px;
+  /* margin-top: 30px; */
   margin-left: 25px;
 }
 .nav-link {
