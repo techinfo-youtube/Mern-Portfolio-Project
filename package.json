@@ -10,6 +10,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
     "react-scripts": "5.0.1",
+    "react-vertical-timeline-component": "^3.6.0",
     "typewriter-effect": "^2.20.1",
     "web-vitals": "^2.1.4"
   },
