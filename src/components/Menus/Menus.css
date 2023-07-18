@@ -24,3 +24,10 @@
 .nav-link:hover {
   color: #f29f67;
 }
+
+.nav-link .active {
+  color: #f29f67;
+  border-left: 5px solid #f29f67;
+  padding-left: 10px;
+  text-decoration: none;
+}
