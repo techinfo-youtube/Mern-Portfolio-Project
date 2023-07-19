@@ -25,3 +25,12 @@
 .work-exp .vertical-timeline-element-subtitle {
   color: #1e1e2c78;
 }
+
+/* ===== DARK MODE ========== */
+#dark .work {
+  background-color: #643a6b;
+}
+
+#dark .work-exp h2 {
+  color: white;
+}

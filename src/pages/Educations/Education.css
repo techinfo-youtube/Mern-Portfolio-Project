@@ -23,3 +23,9 @@
 .education .vertical-timeline-element-subtitle {
   color: #1e1e2c;
 }
+
+/* ========= DARK MODE ============ */
+
+#dark .education {
+  background-color: rgba(255, 255, 255, 0.095);
+}
