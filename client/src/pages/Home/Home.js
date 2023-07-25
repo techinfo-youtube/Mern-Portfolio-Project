@@ -41,7 +41,14 @@ const Home = () => {
           </Fade>
           <Fade bottom>
             <div className="home-buttons">
-              <button className="btn btn-hire">Hire Me</button>
+              <a
+                className="btn btn-hire"
+                href="https://api.whatsapp.com/send?phone=1234567890"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Hire Me
+              </a>
               <a className="btn btn-cv" href={Resume} download="your_name.pdf">
                 My Resume
               </a>

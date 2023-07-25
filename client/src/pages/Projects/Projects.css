@@ -83,3 +83,18 @@
   transition: all 0.5s ease;
   box-shadow: 12px 15px 20px 0px rgba(46, 61, 73, 0.15);
 }
+
+/* =============================== */
+@media (max-width: 600px) {
+  .project {
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+  }
+  .project hr {
+    width: 280px;
+  }
+  .project .card {
+    margin-top: 30px;
+  }
+}

@@ -11,3 +11,13 @@
   background-color: #5f264a;
   color: #f4eee0;
 }
+
+/* ======================= */
+@media (max-width: 600px) {
+  .footer {
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}

@@ -40,3 +40,16 @@
   color: #b0a4a4;
   border-bottom: 2px solid #b0a4a4;
 }
+
+/* ================================ */
+@media (max-width: 600px) {
+  .about {
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+    width: 100%;
+  }
+  .about-content h1 {
+    margin-top: 10px;
+  }
+}

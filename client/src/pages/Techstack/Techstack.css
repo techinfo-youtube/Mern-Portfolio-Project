@@ -31,3 +31,16 @@
 
   transition: 1s;
 }
+
+/* =============================== */
+@media (max-width: 600px) {
+  .techstack {
+    padding: 0;
+    margin: 0;
+    margin-top: 50px;
+  }
+
+  .techstack hr {
+    width: 280px;
+  }
+}
